@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ElectroSlim - Reviews and Benefits of this health product for slimming. Read reviews, explore benefits, and get special offers with our affiliate links.">
+    <title>ElectroSlim Reviews & Benefits | Buy ElectroSlim</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ElectroSlim - Effective Slimming Product</h1>
+        <!-- Add aria-label for accessibility -->
+        <nav aria-label="Main Navigation">
+            <a href="index.html">Home</a>
+            <a href="reviews.html">Reviews</a>
+            <a href="benefits.html">Benefits</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Welcome to ElectroSlim</h2>
+        <p>ElectroSlim is the ultimate solution to achieve your slimming goals. Discover the real-life reviews from satisfied users, learn how it works, and grab exclusive discounts through our affiliate links.</p>
+        <!-- Add a button role for accessibility -->
+        <a href="https://your-affiliate-link.com" class="cta-button" role="button">Buy ElectroSlim Now</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 ElectroSlim Affiliate. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Read personal reviews of ElectroSlim and learn how this slimming product has helped real users achieve their fitness goals.">
+    <title>ElectroSlim Reviews - Real User Testimonials</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ElectroSlim Reviews</h1>
+        <nav aria-label="Main Navigation">
+            <a href="index.html">Home</a>
+            <a href="reviews.html">Reviews</a>
+            <a href="benefits.html">Benefits</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <!-- Example of a well-structured review -->
+        <article>
+            <h2>Review by Sarah D.</h2>
+            <p><strong>Experience:</strong> I’ve been using ElectroSlim for 3 months, and the results have been fantastic! I lost 10 pounds in the first month and feel more energized.</p>
+            <p><strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
+            <!-- Ensure that affiliate links are clear and labeled as affiliate links -->
+            <p><a href="https://your-affiliate-link.com" aria-label="Buy ElectroSlim with Affiliate Link">Buy ElectroSlim Now</a></p>
+        </article>
+
+        <article>
+            <h2>Review by Mike R.</h2>
+            <p><strong>Experience:</strong> ElectroSlim helped me reduce belly fat, and I saw noticeable changes in my physique after just 4 weeks of use.</p>
+            <p><strong>Rating:</strong> ⭐⭐⭐⭐☆</p>
+            <p><a href="https://your-affiliate-link.com" aria-label="Get ElectroSlim with Affiliate Link">Get Yours Here</a></p>
+        </article>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 ElectroSlim Affiliate. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+/* Base styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+/* Add hover effect for links */
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    color: #0073e6;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9900;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+/* Add hover effect for buttons */
+.cta-button:hover {
+    background-color: #e68a00;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #0073e6;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Responsive styling */
+@media (max-width: 600px) {
+    section {
+        margin: 10px;
+        padding: 15px;
+    }
+
+    .cta-button {
+        width: 100%;
+        text-align: center;
+    }
+}
